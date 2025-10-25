@@ -71,7 +71,6 @@
 - Витрины: общая витрина (гранулярность по заказам) `v_sales_report`, квартальное удержание для когортного анализа `cohort_analysis`, годовая активность клиентов (CRR/RPR) `customer_yearly_activity`.
 
 ## Архитектура
-
 1.  **Exploratory Data Analysis (EDA) & ETL** (`01_superstore_eda_etl.ipynb`):
     * Анализ качества данных, очистка.
     * Разведочный анализ данных, RFM-анализ, когортный анализ для быстрого определения проблемных мест.
@@ -83,6 +82,16 @@
     * Создание оптимизированных `VIEW` для ускоренной отчётности.
 4.  **Визуализация**:
     * Интерактивный дашборд в Yandex DataLens для мониторинга KPI.
+
+
+    
+<div align="center">
+  <br>
+    <img src="ER_diagram_superstore.png" alt="Реляционная модель" width="500px">
+  <p style="font-size:90%; color:gray; margin-top:10px; text-align:left; max-width:900px;">
+    Схема БД PostgreSQL
+  </p>
+</div>
   
 ## Структура репозитория
 
