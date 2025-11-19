@@ -17,22 +17,22 @@
 
   <tr style="border:none;">
     <td align="center" style="border:none; vertical-align:top; width:48%; background-color:white; padding:5px;">
-      <a href="retention_heatmap.svg"><img src="retention_heatmap.svg" width="100%"></a>
+      <a href="images/retention_heatmap.svg"><img src="images/retention_heatmap.svg" width="100%"></a>
       <br>(а)
     </td>
     <td align="center" style="border:none; vertical-align:top; width:48%; background-color:white; padding:5px;">
-      <a href="LTV_heatmap.svg"><img src="LTV_heatmap.svg" width="100%"></a>
+      <a href="images/LTV_heatmap.svg"><img src="images/LTV_heatmap.svg" width="100%"></a>
       <br>(б)
     </td>
   </tr>
 
   <tr style="border:none;">
     <td align="center" style="border:none; vertical-align:top; width:48%; background-color:white; padding:5px;">
-      <a href="dashboard_screen.PNG"><img src="dashboard_screen.PNG" width="100%"></a>
+      <a href="images/dashboard_screen.PNG"><img src="images/dashboard_screen.PNG" width="100%"></a>
       <br>(в)
     </td>
     <td align="center" style="border:none; vertical-align:top; width:48%; background-color:white; padding:5px;">
-      <a href="pareto_chart.PNG"><img src="pareto_chart.PNG" width="100%"></a>
+      <a href="images/pareto_chart.PNG"><img src="images/pareto_chart.PNG" width="100%"></a>
       <br>(г)
     </td>
   </tr>
